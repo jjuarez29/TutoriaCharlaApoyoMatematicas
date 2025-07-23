@@ -1,4 +1,33 @@
-Aquí tienes un roadmap de matemáticas en formato Markdown con Mermaid, usando colores y estructura secuencial:
+### Roadmap de matemáticas en formato Markdown con Mermaid, usando colores y estructura secuencial:
+
+## Pasos seguidos para lograr. Este ejemplo
+Parte I
+Usando una inteligencia artificial como Deepseek
+con el promtp 
+creame un markdon con mermaid esquematico para aprender matemasticas desde secuencialmente desde . matamaticabasica, calculo e 1 variables, calculo en dos variables, matematicasdiscretas. diferecnia de colores y cada tipo de matematicas y un colo para conocimientos previsos de colego un roadmap de matematica puedes
+copiar  y grabas readme.me en el directorio
+practica\TutoriaCharlaApoyoMatematicas
+Perte II en github
+o en github TutoriaCharlaApoyoMatematicas
+Parte III
+En equipo de usuario en  directorio. Para subir a tu repositorio remoto
+cd practica\TutoriaCharlaApoyoMatematicas
+git init
+git add readme.md
+git commit -m "primer comit de matematica"
+git remote add origin https://github.com/jjuarez29/TutoriaCharlaApoyoMatematicas.git
+git branch -M main
+git push -u origin main
+
+Debera seguir modificando y se repite
+(git init una sola vez para definir trazavilidad)
+
+git add readme.md
+git commit -m "primer comit de matematica"
+git remote add origin https://github.com/jjuarez29/TutoriaCharlaApoyoMatematicas.git
+git branch -M main
+git push -u origin main
+
 
 ```markdown
 # 🧮 Roadmap de Aprendizaje de Matemáticas 
@@ -104,3 +133,5 @@ mindmap
 5. **Sintaxis compatible** con GitHub/GitLab (renderiza correctamente)
 
 Puedes copiar este código directamente a un archivo `.md` en tu repositorio y se verá como un roadmap interactivo.
+
+
