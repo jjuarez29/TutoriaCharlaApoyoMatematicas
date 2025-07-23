@@ -1,16 +1,25 @@
 ### Roadmap de matemáticas en formato Markdown con Mermaid, usando colores y estructura secuencial:
 
 ## Pasos seguidos para lograr. Este ejemplo
-Parte I
-Usando una inteligencia artificial como Deepseek
-con el promtp 
-creame un markdon con mermaid esquematico para aprender matemasticas desde secuencialmente desde . matamaticabasica, calculo e 1 variables, calculo en dos variables, matematicasdiscretas. diferecnia de colores y cada tipo de matematicas y un colo para conocimientos previsos de colego un roadmap de matematica puedes
-copiar  y grabas readme.me en el directorio
-practica\TutoriaCharlaApoyoMatematicas
-Perte II en github
-o en github TutoriaCharlaApoyoMatematicas
-Parte III
-En equipo de usuario en  directorio. Para subir a tu repositorio remoto
+#Parte I
+Usando una inteligencia artificial como Deepseek con el promtp
+ 
+Creame un markdon con mermaid esquematico para aprender matematicas secuencialmente desde . 
+1.**Matematica basica**
+2.**Calculo e 1 variables**
+3.**Calculo en dos variables** 
+4.**Matematicasdiscretas**
+Nota:
+-Diferencia de colores y cada tipo de matematicas 
+-Un color para conocimientos previos de colego un roadmap de matematica puedes
+-Copiar y graba readme.me en el directorio practica\TutoriaCharlaApoyoMatematicas
+
+#Parte II en github.
+
+1 Creacion en  github repositorio TutoriaCharlaApoyoMatematicas
+
+#Parte III en maquina local:
+-En equipo de usuario en  directorio. Para subir a tu repositorio remoto
 cd practica\TutoriaCharlaApoyoMatematicas
 git init
 git add readme.md
@@ -21,13 +30,13 @@ git push -u origin main
 
 Debera seguir modificando y se repite
 (git init una sola vez para definir trazavilidad)
-
+```
 git add readme.md
 git commit -m "primer comit de matematica"
 git remote add origin https://github.com/jjuarez29/TutoriaCharlaApoyoMatematicas.git
 git branch -M main
 git push -u origin main
-
+```
 
 ```markdown
 # 🧮 Roadmap de Aprendizaje de Matemáticas 
